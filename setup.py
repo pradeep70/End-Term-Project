@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
-REPO_NAME = "Kidney-Disease-Classification-Deep-Learning-Project"
-AUTHOR_USER_NAME = "krishnaik06"
+REPO_NAME = "End-Term-Project"
+AUTHOR_USER_NAME = "pradeep70"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "ch24m555@smail.iitm.ac.in"
 
 
 setuptools.setup(
